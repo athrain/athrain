@@ -10,6 +10,7 @@ I do specialise in Recruitment/People metrics - checking recruitment efficiency,
 - Talent Intelligence
 - Market Mapping
 - People Analytics (recritment onboarding, offboarding, employee data)
+- Sourcing (Google, GitHub, LinkedIn, StackOverflow, various scripts and queries, web scraping)
 - Automations (scripts, internal tools, trackers)
 - Business Intelligence
 

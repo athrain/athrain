@@ -6,6 +6,13 @@ Great to see you on my GitHub profile!
 I'm a Recruitment/Talent Acquisition Data Analyst based in Poland. I'm totally into analysing data from various sources, solving complex recruitment challenges and making TA Teams work better with the help of automations, scripting and well-prepared analyses.
 I do specialise in Recruitment/People metrics - checking recruitment efficiency, quality of hires, identifying main bottlenecks, aligning on the data with finance/HR, figuring out solutions for integrating various systems to ensure data integrity and quality. **Want to learn more? Please reach out to me on LinkedIn.**
 
+## :chart_with_upwards_trend: I specialise in:
+- Talent Intelligence
+- Market Mapping
+- People Analytics (recritment onboarding, offboarding, employee data)
+- Automations (scripts, internal tools, trackers)
+- Business Intelligence
+
 ## What you can find here 
 Some scripts and Jupyter Notebooks that I use to conduct full ETL processess. You can use them if you want as well, but you have to customise them - it could be especially useful for you if you have some raw data in various files and you want to clean them up and e.g. load them onto DB.
 Later on, you will find here some PowerBI reports and web crawlers - if I have enough spare time to prepare them outside work 📊

@@ -7,12 +7,11 @@ I'm a Recruitment/Talent Acquisition Data Analyst based in Poland. I'm totally i
 I do specialise in Recruitment/People metrics - checking recruitment efficiency, quality of hires, identifying main bottlenecks, aligning on the data with finance/HR, figuring out solutions for integrating various systems to ensure data integrity and quality. **Want to learn more? Please reach out to me on LinkedIn.**
 
 ## :chart_with_upwards_trend: I specialise in:
-- Talent Intelligence
-- Market Mapping
-- People Analytics (recritment onboarding, offboarding, employee data)
-- Sourcing (Google, GitHub, LinkedIn, StackOverflow, various scripts and queries, web scraping)
-- Automations (scripts, internal tools, trackers)
-- Business Intelligence
+- People Analytics (recruiting, onboarding, offboarding, employee data) 
+- Analytics/Dashboards/Visualizations (statistics, exploratory analysis, surveys, data storytelling, use of various BI tools) 
+- Talent Intelligence (market mapping, analysis of publicly available data, web scraping, job board analysis, candidate databases) 
+- Automation in HR/TA (scripts, internal tools, trackers) 
+- Superuser/admin of ATS systems (experience with multiple systems such as Jobvite, Recruitee, Greenhouse, Teamtailor, SmartRecruiters, Workday, Lever, Workable)
 
 ## What you can find here 
 Some scripts and Jupyter Notebooks that I use to conduct full ETL processess. You can use them if you want as well, but you have to customise them - it could be especially useful for you if you have some raw data in various files and you want to clean them up and e.g. load them onto DB.
